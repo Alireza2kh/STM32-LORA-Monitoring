@@ -1,0 +1,28 @@
+# Build folders
+Debug/
+Release/
+Objects/
+Listings/
+
+# Build files
+*.axf
+*.bin
+*.hex
+*.o
+*.d
+*.lst
+*.map
+*.crf
+*.dep
+*.iex
+*.lnp
+
+# Keil user files
+*.uvguix.*
+*.bak
+*.tmp
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+.DS_Store
