@@ -68,13 +68,10 @@ The project was implemented and tested on real hardware.
 ```text
 STM32-LoRa-Temperature-Monitoring
 │
-├── transmitter
-│   └── STM32F103_Project
+├──loramaster
 │
-├── receiver
-│   └── STM32F030_Project
-│
-├── docs
+├── loraslave
+│   
 │
 ├── README.md
 ├── LICENSE
