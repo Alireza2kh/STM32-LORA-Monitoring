@@ -70,12 +70,12 @@ STM32-LoRa-Temperature-Monitoring
 │
 ├──loramaster
 │
-├── loraslave
+├──loraslave
 │   
 │
-├── README.md
+├──.gitignore
 ├── LICENSE
-└── .gitignore
+└── README.md
 ```
 
 ---
